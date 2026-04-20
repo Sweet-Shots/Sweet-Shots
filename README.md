@@ -1,62 +1,39 @@
-# 👋 Hey, I'm Doug
+<h1 align="center">Hey, I'm Sweet 👋</h1>
 
-I like building things, learning fast, and figuring out how everything works.
+<p align="center">
+  <img src="https://img.shields.io/badge/Skript-1%20Year-9b59b6?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-new-f89820?style=for-the-badge&logo=java&logoColor=white" />
+</p>
 
----
 
-## 🧠 Languages & Experience
+<div align="center">
 
-### 🟣 Skript (Minecraft)
+## 👤 Who am I?
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Minecraft_Logo.svg" width="60"/>
+I’m a self-taught developer focused on Minecraft systems and scripting.  
+I enjoy building structured gameplay features like GUIs, progression systems, and server tools.
 
-* Experience: **1 year**
-* Focus: Advanced systems, GUIs, automation, server features
+I started with Minecraft scripting and gradually moved into learning programming concepts that translate into real software development.
 
----
+</div>
 
-### 🔵 Lua
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="60"/>
+<div align="center">
 
-* Experience: **2 months**
-* Currently learning scripting fundamentals and logic
+## 🧰 Tools I Use
 
----
+<p>
 
-### ☕ Java
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="60"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 
-* Experience: **Just started**
-* Goal: Plugin + backend development
+<img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
 
----
+<img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white" />
 
-## ⚙️ What I Do
+</p>
 
-* Minecraft server systems (Skript)
-* Backend experimentation
-* UI + system design
-* Learning how things work at a deeper level
+</div>
 
 ---
-
-## 🚀 Goals
-
-* Get solid with Java
-* Build full custom systems from scratch
-* Optimize performance-heavy projects
-* Expand into more languages
-
----
-
-## 📫 Contact
-
-* GitHub: (your link)
-
----
-
-## 🧩 Fun Fact
-
-I don’t like using things blindly—I like understanding them.
