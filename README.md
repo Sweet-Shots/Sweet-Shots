@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Skript-1%20Year-9b59b6?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-new-f89820?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-2%20Months-f89820?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 
